@@ -1,5 +1,5 @@
 body {
-  background-color: #282c34;
+  background-color: #2c2c2c;
 }
 
 .App {
@@ -12,7 +12,7 @@ body {
   background-color: #181717;
   height: 10vh;
   min-height: 50px;
-  color: white;
+  color: rgb(255, 255, 255);
   position: fixed;
   width: 100%;
   max-width: 728px;
@@ -51,7 +51,7 @@ main::-webkit-scrollbar-track {
 }
 
 main::-webkit-scrollbar-thumb {
-  background: #6649b8;
+  background: #2e0896;
 }
 
 form {
